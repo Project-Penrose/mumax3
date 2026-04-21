@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 package cuda
 
 // This file provides GPU byte slices, used to store regions.

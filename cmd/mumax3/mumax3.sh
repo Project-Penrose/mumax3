@@ -1,4 +1,5 @@
 #! /bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 # 
 # This script adds the current directory to your library path
 # and launches mumax3 using the shipped cuda libraries.

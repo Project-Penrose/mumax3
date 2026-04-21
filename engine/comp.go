@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 package engine
 
 // Comp is a Derived Quantity pointing to a single component of vector Quantity

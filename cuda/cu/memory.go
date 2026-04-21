@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 package cu
 
 // This file implements CUDA memory management on the driver level

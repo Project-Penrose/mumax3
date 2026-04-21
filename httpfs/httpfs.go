@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 /*
 Package httpfs provides a (userspace) file system API over http.
 httpfs is used by mumax3-server to proved file system access to the compute nodes.

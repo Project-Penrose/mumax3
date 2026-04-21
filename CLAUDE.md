@@ -81,3 +81,4 @@ Based on: https://mumax.github.io (mumax³ v3.x)
 Paper: http://scitation.aip.org/content/aip/journal/adva/4/10/10.1063/1.4899186
 
 MuMax2 is superseded — use mumax3 or mumaxplus.
+

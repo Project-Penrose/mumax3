@@ -1,0 +1,29 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
+name: Release Please
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: release-please-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release-please:
+    name: Release Please
+    runs-on: magnon-enterprise-runners
+    timeout-minutes: 15
+    steps:
+      - name: Release Please
+        uses: googleapis/release-please-action@7987652d64b4581673a76e33ad5e98e3dd56832f  # v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          release-type: simple
+          changelog-path: CHANGELOG.md
+          tag-name-pattern: "v${version}"

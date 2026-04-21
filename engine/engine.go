@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 /*
 engine does the simulation bookkeeping, I/O and GUI.
 

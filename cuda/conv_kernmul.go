@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 package cuda
 
 // Kernel multiplication for purely real kernel, symmetric around Y axis (apart from first row).

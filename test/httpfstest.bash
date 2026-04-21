@@ -1,4 +1,5 @@
 #! /bin/bash 
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 rm -rf *.out http\:
 killall mumax3-httpfsd

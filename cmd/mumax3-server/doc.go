@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 /*
 Easy-to-use cluster management tool for mumax3, with auto-configuration and web interface.  When nodes are connected behind a home router, mumax3-server can run without any configuration. Otherwise only the IP address range where the other nodes reside has to be specified.
 

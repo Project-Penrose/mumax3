@@ -1,4 +1,5 @@
 #! /bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # builds with -race and runs tests with browser open.
 
@@ -13,4 +14,3 @@ for f in *.mx3; do
 done
 
 go install github.com/mumax/3/cmd/mumax3 # re-build without race detector
-

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # Optional arguments. CUDA_VERSIONS must be supplied if CUDA_CC is specified.
 # Example usage: ./deploy_linux.bash "12.6" "86 87 89"

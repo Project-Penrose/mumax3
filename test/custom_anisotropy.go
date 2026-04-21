@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 /*
 	Test custom field implementation.
 	Like uniaxialanisotropy.mx3, but with custom anisotropy implementation.

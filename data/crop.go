@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 package data
 
 // Cut-out a piece between given bounds (incl, excl)

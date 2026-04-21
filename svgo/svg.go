@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 // Package svg provides an API for generating Scalable Vector Graphics (SVG)
 // Edited by Arne Vansteenkiste, 2014:
 // allow non-integer coordinates

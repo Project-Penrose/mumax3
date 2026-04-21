@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 /*
 mumax3-convert converts mumax3 output files to various formats and images.
 It also provides basic manipulations like data rescale etc.

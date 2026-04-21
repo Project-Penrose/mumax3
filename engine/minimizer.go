@@ -1,3 +1,5 @@
+// Copyright (c) 2024-2026 Magnon Compute Corporation. All Rights Reserved.
+
 package engine
 
 // Minimize follows the steepest descent method as per Exl et al., JAP 115, 17D118 (2014).
